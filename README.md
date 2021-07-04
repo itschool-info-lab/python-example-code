@@ -12,3 +12,9 @@
 **3. [Python] 파이썬 문자열 특수문자, 공백 제거 하기(strip, rstrip, lstrip)**
 + Directory : strip
 + Link : https://info-lab.tistory.com/306
+
+**4. [Python] 파이썬  PIL 라이브러리를 이용한 이미지 변환**
++ Directory : img_pil
++ Link : 
+  - 1편 : https://info-lab.tistory.com/362
+  - 2편 : https://info-lab.tistory.com/363

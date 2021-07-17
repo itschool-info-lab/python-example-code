@@ -18,3 +18,8 @@
 + Link : 
   - 1편 : https://info-lab.tistory.com/362
   - 2편 : https://info-lab.tistory.com/363
+  
+**5. [Python] 파이썬 오늘 요일 확인 하기**
++ Directory : today_week
++ Link : 
+  - https://info-lab.tistory.com/61

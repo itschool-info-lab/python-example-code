@@ -21,5 +21,4 @@
   
 **5. [Python] 파이썬 오늘 요일 확인 하기**
 + Directory : today_week
-+ Link : 
-  - https://info-lab.tistory.com/61
++ Link : https://info-lab.tistory.com/61

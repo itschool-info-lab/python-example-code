@@ -22,3 +22,7 @@
 **5. [Python] 파이썬 오늘 요일 확인 하기**
 + Directory : today_week
 + Link : https://info-lab.tistory.com/61
+
+**6. [Python] 파이썬 SQLite3 이용하기**
++ Directory : sqlite
++ Link : https://info-lab.tistory.com/372

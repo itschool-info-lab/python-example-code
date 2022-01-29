@@ -27,6 +27,6 @@
 + Directory : sqlite
 + Link : https://info-lab.tistory.com/372
 
-**7. [Python] 파이썬 이미지 용량 줄이기 **
+**7. [Python] 파이썬 이미지 용량 줄이기**
 + Directory : img_pil
 + Link : https://info-lab.tistory.com/443

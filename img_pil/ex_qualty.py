@@ -41,6 +41,6 @@ def change_img_qualty(original_path, change_path, qualty=85):
 
 
 if __name__ == '__main__':
-    original_path = '/Users/happylie/Desktop/tmp/0/'
-    change_path = '/Users/happylie/Desktop/tmp/1/'
+    original_path = '/Desktop/tmp/0/'
+    change_path = '/Desktop/tmp/1/'
     change_img_qualty(original_path, change_path)

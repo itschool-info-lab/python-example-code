@@ -13,7 +13,7 @@
 + Directory : strip
 + Link : https://info-lab.tistory.com/306
 
-**4. [Python] 파이썬  PIL 라이브러리를 이용한 이미지 변환**
+**4. [Python] 파이썬 PIL 라이브러리를 이용한 이미지 변환**
 + Directory : img_pil
 + Link : 
   - 1편 : https://info-lab.tistory.com/362
@@ -26,3 +26,7 @@
 **6. [Python] 파이썬 SQLite3 이용하기**
 + Directory : sqlite
 + Link : https://info-lab.tistory.com/372
+
+**7. [Python] 파이썬 이미지 용량 줄이기 **
++ Directory : img_pil
++ Link : https://info-lab.tistory.com/443
